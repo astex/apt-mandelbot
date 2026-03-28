@@ -1,0 +1,6 @@
+Origin: mandelbot
+Label: mandelbot
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+SignWith: yes
