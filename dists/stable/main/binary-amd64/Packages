@@ -1,14 +1,14 @@
 Package: mandelbot
-Version: 0.1.3
+Version: 0.1.4
 Architecture: amd64
 Maintainer: astex <astex@users.noreply.github.com>
 Priority: optional
 Section: devel
-Filename: pool/main/m/mandelbot/mandelbot_0.1.3_amd64.deb
-Size: 6238248
-SHA256: 11bb9bbcfa56a5282581c55f4b5813bf669e188816f678d769ff09fa088a8266
-SHA1: 63f73fae699405e31863fc6433d8a94b84ef6de2
-MD5sum: a63ea26cf6eeb48cee0cf9f531cd8090
+Filename: pool/main/m/mandelbot/mandelbot_0.1.4_amd64.deb
+Size: 6241598
+SHA256: f25f5bfa963d850327f9db079605949b9d466994222d3927d89c55e51226a67b
+SHA1: 8461b4586dacf087b8fbca773d56a3e6194bd981
+MD5sum: 61583df2a7860df1f80053c3c9780fc6
 Description: A fractal agent tree for agentic development
  Terminal emulator and IDE-like environment for agentic development.
 Homepage: https://github.com/astex/mandelbot
